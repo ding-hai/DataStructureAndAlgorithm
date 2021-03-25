@@ -5,10 +5,10 @@ this project is used to manage my implementation of usual data structure and alg
 ## list
 
 ## tree
-
 + [x] Heap [**done**]
 
 ## map
++ [x] Skiplist
 
 # Algorithm
 ## sorting
